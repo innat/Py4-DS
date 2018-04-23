@@ -17,6 +17,7 @@ pip install pandas
 pip install pillow
 pip install matplotlib
 pip install -U scikit-learn
+pip install nltk
 ```
 or just download [anaconda distribution](https://www.anaconda.com/download/) for get all the necessary pacakges simultaneously.
 
