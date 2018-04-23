@@ -6,6 +6,55 @@ Data science, also known as data-driven science, is an interdisciplinary field o
 Cover some of the most used python packages in the field of Data Science. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of real time ongoing projects and famous data sets recorder in kaggle.
 
 
+# Installation
+
+Downlaod [Python 3x](https://www.python.org/) from the official website.
+
+### Local
+``` bash
+pip install numpy
+pip install pandas
+pip install pillow
+pip install matplotlib
+pip install -U scikit-learn
+```
+or just download [anaconda distribution](https://www.anaconda.com/download/) for get all the necessary pacakges simultaneously.
+
+```
+git clone https://github.com/innat-2k14/Data-Science-In-Python
+cd Data-Science-In-Python
+jupyter notebook
+```
+Go do the desired notebook, files that end with '.ipynb'. To run the model, go to the menu then click on Cell > Run all
+
+
+## Folder structure
+
+``` bash
+  |-Python for Data Science                               
+  |  |-Code with Matplotlib                           
+  |  |  |-Matplotlib_Exercise                       
+  |  |  |-Visualization								
+  |  |-Code with Numpy                          
+  |  |  |-Numerical Exercises                        
+  |  |  |-Numerical Python
+  |  |  |-Satellite Image Processing
+  |  |-Code with Pandas  
+  |  |  |-Exercise with Pandas
+  |  |  |-Pandas in Data Science
+  |  |-Machine Learning Approach    
+  |  |  |-European Soccer Regression Analysis using scikit-learn
+  |  |  |-K-Means
+  |  |  |-Weather Data Classification using Decision Trees
+  |  |-NLP-Databases   
+  |  |  |-Movie Reviews Using NLTK
+  |  |  |-Twitter API for Tweet Analysis
+  |  |  |-Working with Databases
+  |  |-Planck                           
+  |  |-Python Word Count                          
+  |  |-Soocer Data Analysis - kaggle                         
+```
+
 
 ## Data Sets
 * [IMDB Movie-Set](https://grouplens.org/datasets/movielens/)
