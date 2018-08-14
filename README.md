@@ -1,4 +1,8 @@
-# Data Science In Python 
+
+# [edX : UC San DiegoX](https://www.edx.org/school/uc-san-diegox)
+**[Python for Data Science](https://www.edx.org/course/python-for-data-science)**
+
+This course, part of the Data Science MicroMasters program, will introduce us to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. 
 
 Data science, also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining.
 
@@ -74,8 +78,3 @@ Worth Watching [The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=jbk
 * [Weather Data Classification using Decision Trees](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Machine%20Learning%20Approach/Weather%20Data%20Classification%20using%20Decision%20Trees)
 * [Twitter API for Tweet Analysis](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/NLP-Databases/Using%20the%20Twitter%20API%20for%20Tweet%20Analysis)
 
-
----
-Regards
-
-**World of Void.**
