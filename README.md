@@ -2,12 +2,13 @@
 # [edX : UC San DiegoX](https://www.edx.org/school/uc-san-diegox)
 **[Python for Data Science](https://www.edx.org/course/python-for-data-science)**
 
-This course, part of the Data Science MicroMasters program, will introduce us to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. 
+
+This repo contains resource materials which is the part of the Data Science MicroMasters program, that will introduce us to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. 
 
 Data science, also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining.
 
 
-Cover some of the most used python packages in the field of Data Science. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of real time ongoing projects and famous data sets recorder in kaggle.
+Covering some of the most used python packages in the field of Data Science. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of real time ongoing projects and famous data sets recorder in kaggle.
 
 
 # Installation
@@ -26,8 +27,8 @@ pip install nltk
 or just download [anaconda distribution](https://www.anaconda.com/download/) for get all the necessary pacakges simultaneously.
 
 ```
-git clone https://github.com/innat-2k14/Data-Science-In-Python
-cd Data-Science-In-Python
+git clone https://github.com/iphton/Py4-DS
+cd Python for Data Science
 jupyter notebook
 ```
 Go do the desired notebook, files that end with '.ipynb'. To run the model, go to the menu then click on Cell > Run all
