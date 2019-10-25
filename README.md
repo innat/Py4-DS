@@ -3,7 +3,7 @@
 **[Python for Data Science](https://www.edx.org/course/python-for-data-science)**
 
 
-This repo contains resource materials which is the part of the Data Science MicroMasters program, that will introduce us to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. 
+This repo contains resource materials which is the part of the Data Science MicroMasters program, that introduces a collection of powerful, open-source, tools needed to analyze data and to conduct data science. 
 
 Data science, also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining.
 
