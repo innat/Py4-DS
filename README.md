@@ -2,11 +2,10 @@
 [![Python 3](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/)
 ============================================
 
-This repo contains resource materials which is the part of the Data Science MicroMasters program, that introduces a collection of powerful, open-source, tools needed to analyze data and to conduct data science. Data science, also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining. Covering some of the most used python packages in the field of Data Science. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of real time ongoing projects and famous data sets recorder in kaggle.
+This repo contains resource materials which is the part of the Data Science MicroMasters program of **UC San DiegoX** in edX, that introduces a collection of powerful open-source tools needed to analyze data and to conduct data science. Data science, which is also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining. In this course, covering some of the most used python packages in the field of **Data Science**. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of projects and famous data sets recorded in kaggle.
 
 
 # Installation
-
 Downlaod [Python 3x](https://www.python.org/) from the official website.
 
 ### Local
@@ -25,7 +24,7 @@ git clone https://github.com/iphton/Py4-DS
 cd Python for Data Science
 jupyter notebook
 ```
-Go do the desired notebook, files that end with '.ipynb'. To run the model, go to the menu then click on Cell > Run all
+Go do the desired notebook, files that end with '.ipynb'. To run the model, go to the menu then click on Cell > Run all.
 
 
 ## Folder structure
