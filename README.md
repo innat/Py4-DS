@@ -7,13 +7,13 @@ This repo contains resource materials which is the part of the Data Science Micr
 ## Update 
 Tutorials and exercise of the course is now separated inot per-weeks. You can just download the repo and start sequentially. You may need to download some files which is larger than allowed file sizes.
 
-- week 1: introduction of Data Science 
-- week 2: Basic Python
-- week 3: Introduction of NumPy
-- week 4: Introduction of Pandas
-- week 5: Introduction of Matplotlib
-- week 7: Introduction of Machine Learning
-- week 8: Natural Language Processing 
+- [week 1](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%201/): introduction of Data Science 
+- [week 2](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%202/): Basic Python
+- [week 3](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%203/): Introduction of NumPy
+- [week 4](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%204/): Introduction of Pandas
+- [week 5](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%205/): Introduction of Matplotlib
+- [week 7](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%207/): Introduction of Machine Learning
+- [week 8](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%208/): Natural Language Processing 
 
 **Note**: Week 6 was only for a Mini-Projects based on Week 1-5.
 
