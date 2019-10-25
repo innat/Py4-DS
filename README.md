@@ -4,6 +4,18 @@
 
 This repo contains resource materials which is the part of the Data Science MicroMasters program of **UC San DiegoX** in edX, that introduces a collection of powerful open-source tools needed to analyze data and to conduct data science. Data science, which is also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining. In this course, covering some of the most used python packages in the field of **Data Science**. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of projects and famous data sets recorded in kaggle.
 
+## Update 
+Tutorials and exercise of the course is now separated inot per-weeks. You can just download the repo and start sequentially. You may need to download some files which is larger than allowed file sizes.
+
+- week 1: introduction of Data Science 
+- week 2: Basic Python
+- week 3: Introduction of NumPy
+- week 4: Introduction of Pandas
+- week 5: Introduction of Matplotlib
+- week 7: Introduction of Machine Learning
+- week 8: Natural Language Processing 
+
+**Note**: Week 6 was only for a Mini-Projects based on Week 1-5.
 
 # Installation
 Downlaod [Python 3x](https://www.python.org/) from the official website.
@@ -25,7 +37,6 @@ cd Python for Data Science
 jupyter notebook
 ```
 Go do the desired notebook, files that end with '.ipynb'. To run the model, go to the menu then click on Cell > Run all.
-
 
 ## Folder structure
 
