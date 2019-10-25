@@ -1,12 +1,16 @@
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/17668390/67600809-af503300-f794-11e9-8b2f-5ea5452d0ee5.png">
+</p>
+
 [Python for Data Science | Py4-DS](https://www.edx.org/course/python-for-data-science)
 [![Python 3](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/)
 ============================================
 
 <p align="justify">
-This repo contains resource materials which is the part of the Data Science MicroMasters program of **UC San DiegoX** in edX, that introduces a collection of powerful open-source tools needed to analyze data and to conduct data science. Data science, which is also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining. In this course, covering some of the most used python packages in the field of **Data Science**. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of projects and famous data sets recorded in kaggle.
+This repo contains resource materials which is the part of the Data Science MicroMasters program of UC San DiegoX in edX, that introduces a collection of powerful open-source tools needed to analyze data and to conduct data science. Data science, which is also known as data-driven science, is an interdisciplinary field of scientific methods, processes, algorithms and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining. In this course, covering some of the most used python packages in the field of Data Science. A very effective overview on Jupyter notebook , Numerical Python , Matplotlib , Pandas , NLTK , Sci-Kit and lots of projects and famous data sets recorded in kaggle.
 
 ## Update 2019
-Tutorials and exercise of the course is now separated inot per-weeks. You can just download the repo and start sequentially. You may need to download some files which is larger than allowed file sizes.
+**Tutorials and Exercise** of this course is now separated inot **per-weeks**. You can just download the repo and can able start sequentially. You may need to download some files which is larger than allowed file sizes (100MB).
 
 - [week 1](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%201/): introduction of Data Science 
 - [week 2](https://nbviewer.jupyter.org/github/innat/Py4-DS/tree/gh-pages/Week%202/): Basic Python
@@ -30,14 +34,14 @@ pip install matplotlib
 pip install -U scikit-learn
 pip install nltk
 ```
-or just download [anaconda distribution](https://www.anaconda.com/download/) for get all the necessary pacakges simultaneously.
+or just download [anaconda distribution](https://www.anaconda.com/download/) to get all the necessary pacakges at a time. You may also need to install git to download the repo as follow and to run:
 
 ```
 git clone https://github.com/innat/Py4-DS.git
 cd Python for Data Science
 jupyter notebook
 ```
-Go do the desired notebook, files that end with '.ipynb'. To run the model, go to the menu then click on Cell > Run all.
+Now, go do the desired notebook, files that end with '.ipynb'. To run the file, go to the menu then click on `Cell > Run`. 
 
 ## Folder structure
 
