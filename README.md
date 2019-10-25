@@ -46,6 +46,7 @@ jupyter notebook
 Now, go do the desired notebook, files that end with '.ipynb'. To run the file, go to the menu then click on `Cell > Run`. 
 
 ## Folder structure
+Apart from the separated **per-weeks**; The following directory, **Python for Data Science** holds the most important content combinedly. You may prefer in this way if you're confortable with the packages and contents. 
 
 ``` bash
   |-Python for Data Science                               
@@ -73,6 +74,7 @@ Now, go do the desired notebook, files that end with '.ipynb'. To run the file, 
 ```
 
 ## Data Sets
+You may also need to donwload additional dataset but here are the most important ones.
 * [IMDB Movie-Set](https://grouplens.org/datasets/movielens/)
 * [Soccer Data-Set](https://www.kaggle.com/hugomathien/soccer)
 * [World Development Indicator](https://www.kaggle.com/worldbank/world-development-indicators)
@@ -80,6 +82,7 @@ Now, go do the desired notebook, files that end with '.ipynb'. To run the file, 
 Worth Watching [The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=jbkSRLYSojo)
 
 ## Key Projects
+Some interesting project mentioned below.
 * [Kaggle | Soccer Data Analysis](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Soocer%20Data%20Analysis%20%20-%20kaggle)
 * [Satellite Image Processing using Numpy package](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Code%20with%20Numpy/Satellite%20Image%20Processing)
 * [World Development Indicators | Data Visualization](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Code%20with%20Matplotlib/Visualization/World%20Development%20Indicators)
@@ -88,4 +91,4 @@ Worth Watching [The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=jbk
 * [Weather Data Clustering using k-Means](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Machine%20Learning%20Approach/K-Means)
 * [Weather Data Classification using Decision Trees](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Machine%20Learning%20Approach/Weather%20Data%20Classification%20using%20Decision%20Trees)
 * [Twitter API for Tweet Analysis](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/NLP-Databases/Using%20the%20Twitter%20API%20for%20Tweet%20Analysis)
-
+---
