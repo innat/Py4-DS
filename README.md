@@ -36,7 +36,7 @@ pip install matplotlib
 pip install -U scikit-learn
 pip install nltk
 ```
-or just download [anaconda distribution](https://www.anaconda.com/download/) to get all the necessary pacakges at a time. You may also need to install git to download the repo as follow and to run:
+or just download [anaconda distribution](https://www.anaconda.com/download/) to get all the necessary pacakges at a time. You may also need to install [git](https://git-scm.com/) to download the repo as follow and to run:
 
 ```
 git clone https://github.com/innat/Py4-DS.git
