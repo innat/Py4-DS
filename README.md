@@ -1,8 +1,5 @@
-
-# [edX : UC San DiegoX](https://www.edx.org/school/uc-san-diegox)
-[![Python 3](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/)
-
 [Python for Data Science](https://www.edx.org/course/python-for-data-science)
+[![Python 3](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/)
 
 ============================================
 
