@@ -91,4 +91,6 @@ Some interesting project mentioned below.
 * [Weather Data Clustering using k-Means](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Machine%20Learning%20Approach/K-Means)
 * [Weather Data Classification using Decision Trees](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/Machine%20Learning%20Approach/Weather%20Data%20Classification%20using%20Decision%20Trees)
 * [Twitter API for Tweet Analysis](https://github.com/innat-2k14/Data-Science-In-Python/tree/gh-pages/Python%20for%20Data%20Science/NLP-Databases/Using%20the%20Twitter%20API%20for%20Tweet%20Analysis)
----
+
+## Contact
+If there's anything you would like to inform me here or if you're just feeling social, feel free to contact on [quora](https://www.quora.com/profile/Mohammed-Innat#) or reach out on [LinkedIn](https://www.linkedin.com/in/innat2k14/).
